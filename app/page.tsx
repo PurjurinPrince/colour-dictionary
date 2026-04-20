@@ -443,7 +443,7 @@ export default function Page() {
         )}
         
         <footer className="pt-8 border-t border-gray-100 text-center text-sm text-gray-400 pb-12">
-          Design Fundamentals &mdash; Dictionary Assignment
+          Designed & built by Vedant Biyani · 2026
         </footer>
       </main>
 
